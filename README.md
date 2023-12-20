@@ -1,4 +1,4 @@
 ### Hi there 👋 
-- :computer: Web & App development, AWS
+- :computer: Web development, AWS, Azure
 - 🏫 3rd year, computer science
 - 🎬 I also edit/produce videos for fun.
