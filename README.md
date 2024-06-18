@@ -1,5 +1,5 @@
 ### Hi there 👋 
 - :computer: Web development: MERN stack
 - ☁️: Azure, AWS
-- 🏫 senior computer science student
+- 🏫 Software engineer recent grad
 - 🎬 Video producer/editor for fun
