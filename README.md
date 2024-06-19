@@ -1,5 +1,7 @@
-### Hi there 👋 
+### Hi there, welcome to my profile 👋 
+
+My background and skills:
 - :computer: Web development: MERN stack
 - ☁️: Azure, AWS
-- 🏫 Software engineer recent grad
 - 🎬 Video producer/editor for fun
+- 🏫: Software engineer - Tecnologico de Monterrey 2024
