@@ -4,4 +4,4 @@ My background and skills:
 - :computer: Web development: MERN stack
 - ☁️: Azure, AWS
 - 🎬 Video producer/editor for fun
-- 🏫: Software engineer - Tecnologico de Monterrey 2024
+- 🏫: Software engineer - Tecnologico de Monterrey 
